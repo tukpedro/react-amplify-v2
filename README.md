@@ -14,7 +14,7 @@ React Amplify V2 is a cutting-edge web application template that leverages AWS A
 -   [About](#about)
 -   [Getting Started](#getting_started)
 -   [Prerequisites](#prerequisites)
--   [Installing](#installing)
+-   [Project setup](#setup)
 -   [Running the project](#running)
 
 ## 🧐 About <a name = "about"></a>
@@ -29,13 +29,19 @@ These instructions will get your copy of the project up and running on your loca
 
 Ensure you have the latest version of node and npm installed
 
-## 🛠️ Installing dependencies <a name = "installing"></a>
+## 🛠️ Project setup <a name = "setup"></a>
 
 To get a development environment running, clone the repository and install the dependencies:
 
+### Cloning the repository
+
 ```bash
 git clone https://github.com/tukpedro/react-amplify-v2.git
-cd react-amplify-v2
+```
+
+### Installing dependencies
+
+```bash
 npm i
 ```
 
