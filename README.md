@@ -1,5 +1,3 @@
-![Project Logo](path/to/your/logo.png)
-
 # react-amplify-v2
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
