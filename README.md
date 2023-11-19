@@ -1,8 +1,46 @@
-# React + Vite
+![Project Logo](path/to/your/logo.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# react-amplify-v2
 
-Currently, two official plugins are available:
+![Status](https://img.shields.io/badge/status-active-success.svg)
+[![GitHub Issues](https://img.shields.io/github/issues/tukpedro/react-amplify-v2.svg)](https://github.com/tukpedro/react-amplify-v2/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/tukpedro/react-amplify-v2.svg)](https://github.com/tukpedro/react-amplify-v2/pulls)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Amplify V2 is a cutting-edge web application template that leverages AWS Amplify to deliver a seamless, scalable, and serverless backend, combined with the reactive capabilities of React for the frontend, ensuring a robust user experience.
+
+## 📝 Table of Contents
+
+-   [About](#about)
+-   [Getting Started](#getting_started)
+-   [Prerequisites](#prerequisites)
+-   [Installing](#installing)
+-   [Running the project](#running)
+
+## 🧐 About <a name = "about"></a>
+
+This project is a blueprint for modern web application development. The goal is to provide a fully functional template that combines AWS Amplify's cloud-enabled technology stack with the powerful React library. It's designed to be a starting point for developers looking to build scalable and feature-rich applications with minimal setup.
+
+## 🏁 Getting Started <a name = "getting_started"></a>
+
+These instructions will get your copy of the project up and running on your local machine for development and testing purposes. See [Deployment](#deployment) for notes on how to deploy the project on a live system.
+
+## ✍️ Prerequisites <a name = "prerequisites"></a>
+
+Ensure you have the latest version of node and npm installed
+
+## 🛠️ Installing dependencies <a name = "installing"></a>
+
+To get a development environment running, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/tukpedro/react-amplify-v2.git
+cd react-amplify-v2
+npm i
+```
+
+## 🚀 Running the project <a name = "running"></a>
+
+```bash
+npm run dev
+```
